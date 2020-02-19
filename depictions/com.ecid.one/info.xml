@@ -1,23 +1,23 @@
 <package>
-	<id>com.ecid.one</id>
-	<name>one</name>
-	<version>1.0</version>
-	<compatibility>
-		<firmware>
-			<miniOS>9.0</miniOS>
-			<otherVersions>unconfirmed</otherVersions>
-			<!--
-			for otherVersions, you can put either unsupported or unconfirmed
-			-->
-		</firmware>
-	</compatibility>
-	<dependencies></dependencies>
-	<descriptionlist>
-		<description>Simple HS Clock</description>
-	</descriptionlist>
-	<screenshots></screenshots>
-	<changelog>
-		<change>Initial release</change>
-	</changelog>
-	<links></links>
+<id>com.ecid.one</id>
+<name>one</name>
+<version>1.0</version>
+<compatibility>
+	<firmware>
+		<miniOS>9.0</miniOS>
+		<otherVersions>unconfirmed</otherVersions>
+		<!--
+		for otherVersions, you can put either unsupported or unconfirmed
+		-->
+	</firmware>
+</compatibility>
+<dependencies></dependencies>
+<descriptionlist>
+	<description>First widget</description>
+</descriptionlist>
+<screenshots></screenshots>
+<changelog>
+	<change>Initial release</change>
+</changelog>
+<links></links>
 </package>
